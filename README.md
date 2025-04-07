@@ -6,9 +6,9 @@
 ### 💡 About Me
 
 I’m a passionate full-stack developer from Kenya building high-impact web apps, APIs, and AI-powered tools.  
-💼 Co-founder of [**Colman Tech Savvy**](https://github.com/colman-tech), a freelance digital agency providing web/mobile development and UI/UX solutions.
+💼 Co-founder of [**Colman Tech Savvy**](https://colman-client.vercel.app), a freelance digital agency providing web/mobile development and UI/UX solutions.
 
-Currently learning **C#**, exploring cloud computing, and prepping for Toptal remote opportunities.  
+Currently learning **C#**, exploring cloud computing, and prepping for  opportunities.  
 Always building. Always learning. Always shipping.
 
 ---
@@ -20,7 +20,7 @@ Always building. Always learning. Always shipping.
 - 🔧 **Backend**: Node.js, Express, MongoDB, PostgreSQL  
 - ☁️ **Tools & Hosting**: Git, Render, Railway, Vercel, Netlify  
 - 🧠 **Currently Learning**: Advanced C#, AI integrations, Cloud Architecture  
-- 📊 **Extras**: SEO Optimization, Power BI
+- 📊 **Extras**: SEO Optimization
 
 ---
 
@@ -38,10 +38,10 @@ A modern eCommerce platform with dynamic product listings, cart, checkout flow, 
 
 ### 📬 Let’s Connect
 
-- 🌐 [**Portfolio Website**](https://your-portfolio-link.vercel.app)
+- 🌐 [**Portfolio Website**](https://collins-eta.vercel.app)
 - 📧 **Email**: [njogucollins10397@gmail.com](mailto:njogucollins10397@gmail.com)
-- 💼 [**LinkedIn**](https://linkedin.com/in/your-profile)
-- 🐦 [**Twitter**](https://twitter.com/yourhandle)
+- 💼 [**LinkedIn**](www.linkedin.com/in/collins-njogu-4aa75a351)
+- 🐦 [**Instagram**](https://instagram.com/collo9146)
 
 ---
 
