@@ -24,17 +24,6 @@ Always building. Always learning. Always shipping.
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🚕 [Uber-like Ride Platform](https://github.com/collinsnjogu/ride-app)  
-Real-time ride requests, Google Maps tracking, fare estimation, and Mpesa/PayPal integration. Built with React, Node.js, and Socket.io.
-
-#### 🛋️ [Furniture Shop Website](https://github.com/collinsnjogu/furniture-shop)  
-A modern eCommerce platform with dynamic product listings, cart, checkout flow, and admin dashboard. Powered by React & Node.
-
-> Want to see more? Check out my full portfolio below 👇
-
----
 
 ### 📬 Let’s Connect
 
