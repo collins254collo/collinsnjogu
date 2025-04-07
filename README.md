@@ -1,41 +1,48 @@
-
-# 👋 Hey there, I’m Collins Njogu
-
-🚀 Full-stack Developer | React & Node.js | Backend Lover | Cloud & AI Explorer
-
-I'm a passionate developer from Kenya building full-stack web apps, APIs, and AI-powered tools.
+<h1 align="center">👋 Hey there, I’m Collins Njogu</h1>
+<h3 align="center">🚀 Full-Stack Developer | React & Node.js | Backend Specialist | Cloud & AI Explorer</h3>
 
 ---
 
-## 🛠️ Tech Stack
+### 💡 About Me
 
-- 💻 **Languages:** JavaScript, TypeScript, C#, SQL
-- 🌐 **Frontend:** React, Tailwind, Next.js
-- 🧠 **Backend:** Node.js, Express, MongoDB, PostgreSQL
-- ☁️ **Tools:** Git,  Render, Railway, Vercel, Netlify
-- 🤖 **Learning:** currently learning C#
-- 📊 **Extras:**  SEO Optimization
+I’m a passionate full-stack developer from Kenya building high-impact web apps, APIs, and AI-powered tools.  
+💼 Co-founder of [**Colman Tech Savvy**](https://github.com/colman-tech), a freelance digital agency providing web/mobile development and UI/UX solutions.
 
----
-
-## 📌 Featured Projects
-
-🚕 [**Uber-like Ride Platform**](https://github.com/collinsnjogu/ride-app)  
-Real-time ride request, Google Maps integration, Mpesa/PayPal payments.
-
-
-🛋️ [**Furniture Shop Site**](https://github.com/collinsnjogu/furniture-shop)  
-Modern eCommerce site with full admin dashboard.
+Currently learning **C#**, exploring cloud computing, and prepping for Toptal remote opportunities.  
+Always building. Always learning. Always shipping.
 
 ---
 
-## 💼 Let’s Connect
+### 🛠️ Tech Stack
 
-- 🌐 [Portfolio](https://your-portfolio-link.vercel.app)
-- 📧 Email: njogucollins10397@gmail.com
-- 💬 LinkedIn: [Collins Njogu](https://linkedin.com/in/your-profile)
-- 🐦 Twitter: [@collins_njogu](https://twitter.com/yourhandle)
+- 💻 **Languages**: JavaScript, TypeScript, C#, SQL  
+- 🌐 **Frontend**: React, Tailwind CSS, Next.js  
+- 🔧 **Backend**: Node.js, Express, MongoDB, PostgreSQL  
+- ☁️ **Tools & Hosting**: Git, Render, Railway, Vercel, Netlify  
+- 🧠 **Currently Learning**: Advanced C#, AI integrations, Cloud Architecture  
+- 📊 **Extras**: SEO Optimization, Power BI
 
 ---
 
-*“Build with purpose. Fail forward. Code like you mean it.”*
+### 🚀 Featured Projects
+
+#### 🚕 [Uber-like Ride Platform](https://github.com/collinsnjogu/ride-app)  
+Real-time ride requests, Google Maps tracking, fare estimation, and Mpesa/PayPal integration. Built with React, Node.js, and Socket.io.
+
+#### 🛋️ [Furniture Shop Website](https://github.com/collinsnjogu/furniture-shop)  
+A modern eCommerce platform with dynamic product listings, cart, checkout flow, and admin dashboard. Powered by React & Node.
+
+> Want to see more? Check out my full portfolio below 👇
+
+---
+
+### 📬 Let’s Connect
+
+- 🌐 [**Portfolio Website**](https://your-portfolio-link.vercel.app)
+- 📧 **Email**: [njogucollins10397@gmail.com](mailto:njogucollins10397@gmail.com)
+- 💼 [**LinkedIn**](https://linkedin.com/in/your-profile)
+- 🐦 [**Twitter**](https://twitter.com/yourhandle)
+
+---
+
+<p align="center"><i>“Build with purpose. Fail forward. Code like you mean it.”</i></p>
